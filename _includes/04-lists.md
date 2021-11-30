@@ -1,4 +1,4 @@
-1.webapplication
+1-webapplication
   - front-end
   - back-end
-2.mobileapplication
+2-mobileapplication
